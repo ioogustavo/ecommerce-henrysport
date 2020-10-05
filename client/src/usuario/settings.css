@@ -1,0 +1,27 @@
+.SettingsTitulo{
+    justify-content: center;
+     color: white;
+     font-size: xxx-large;
+     font-weight: 900;
+ }
+
+ .containerSettings{
+    height: 100%;
+    width: 100%;
+    background-image:url(https://cdn.pixabay.com/photo/2018/07/22/08/47/tennis-3554013_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+ }
+
+ .UserSettings{
+     margin-top: 90px;
+ }
+
+ .PasswordSettings{
+     margin-top: 50px;
+ }
+
+ .botonVolver{
+     margin-top: 30px;
+     padding-bottom: 10px;
+ }

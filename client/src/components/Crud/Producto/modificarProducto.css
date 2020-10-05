@@ -1,0 +1,10 @@
+.cimg-fluid {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: 50px;
+  margin: auto;
+}
+th {
+  width: 110px;
+}

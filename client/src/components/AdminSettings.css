@@ -1,0 +1,46 @@
+.AdminTitulo{
+   justify-content: center;
+    color: white;
+    font-size: xxx-large;
+    font-weight: 900;
+}
+
+
+
+.buttonContainer{
+    display: flex;
+    left: 0px;
+    left: -10px;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+
+.total{
+   
+    height: 800px;
+    background-image: url(https://www.elnorte.ec/wp-content/uploads/2018/07/image_content_75857_20180724134558.jpg);
+}
+.container{
+    padding-top: 50px;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 600px;
+  
+}
+
+.botonAdmin{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background: #ff8d27;
+    border-color: darkorange;;
+    outline: none;
+    flex-wrap: wrap;
+}
+
+.nav-link{
+    width: 200px;
+}

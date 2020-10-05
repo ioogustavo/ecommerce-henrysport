@@ -1,0 +1,92 @@
+
+.firstCont {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+  margin-right: 55%;
+}
+
+.secondCont {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10%;
+  margin-top: -25.85%;
+  margin-left: 56%;
+}
+
+#titulo {
+  font-size: 35px;
+  display: flex;
+  justify-content: start;
+  margin-left: 64px;
+  margin-top: 23px;
+  margin-bottom: 26px;
+  color: white;
+}
+
+.titulosReg {
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 25px;
+}
+
+.cont2 {
+  padding-top: 60px;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(https://cdn.pixabay.com/photo/2020/08/08/04/02/ball-5472086_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: 1500px;
+
+}
+
+.log1 {
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+  width: 35%;
+  margin-top: 96px;
+  margin-left: 32%;
+  visibility: none;
+}
+
+.input {
+  height: 45px;
+}
+
+.boton2 {
+  border: 15px;
+  width: 200px;
+  margin-left: 124px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #ff7700;
+  border-color: #251f19;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 19px;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+#error {
+  display: contents;
+  color: black;
+  font-weight: 900;
+}
+
+#botm {
+  display: flex;
+  justify-content: center;
+  margin-top: 47px;
+  margin-right: 80px;
+}

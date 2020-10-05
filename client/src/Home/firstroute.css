@@ -1,0 +1,32 @@
+.link {
+  color: black;
+  border: 2px black;
+}
+
+.BotonHome {
+  border: none;
+  width: 300px;
+  height: 40px;
+  font-weight: 800;
+  background: #ff8d27;
+  color: black;
+}
+
+.ContenedorDeBotones {
+  background: black;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-bottom: -300px;
+  margin-top: 450px;
+  margin-left: 220px;
+}
+
+.ContenedorFR {
+  height: 600px;
+  background-image: url(../images/HSbackground.jpg);
+  width: 100%;
+  margin: auto;
+  background-repeat: repeat-x;
+}

@@ -1,0 +1,97 @@
+.contenedor{
+   margin: 50px 7.5% 0 3.5%;
+   border-bottom: 5px inset #ff800f;
+   border-right: 5px outset #ff800f;
+   box-shadow: 6px 6px 5px #999;
+}
+ 
+h5{
+   font-size: 20px;
+}
+ 
+.btn-primary{
+   margin: 10px 0px 5px;
+}
+ 
+ 
+#standard-textarea{
+   width: 500px;
+}
+ 
+.opiniones{
+   margin: 35px 7.5% 0 3.5%;
+   border-bottom: 5px inset #ff800f;
+   border-right: 5px outset #ff800f;
+   box-shadow: 6px 6px 5px #999;
+
+}
+ 
+#heart:active{
+   color: tomato;
+}
+ 
+.titleOp {
+   text-align: left;
+}
+ 
+.user{
+   margin-right: 20px
+}
+ 
+.reviewcomplete{
+      width: 100%;
+      display:flex;
+      flex-direction: column;
+      justify-content: start;
+      font-family: 'Graphik';
+      font-weight: 400;
+  }
+ 
+ 
+.iconsRw {
+   margin: 10px
+}
+
+.cadaOp {
+   display: flex;
+   padding: 10px;
+   margin: 10px;
+  
+   align-content: space-around;
+
+   justify-content: space-between;
+  
+}
+
+.reviews {
+   display: flex;
+   
+   padding: 10px;
+   margin: 10px;
+   align-items: center;
+   align-content: space-around;
+   flex-flow: row wrap;
+   justify-content: space-between;
+   
+}
+
+.elemRw {
+   align-content: space-around;
+   margin: 10px;
+}
+
+.editRw {
+   width: 50px;
+   height: 50px;
+   margin: 10px;
+}
+
+.title {
+   display: none;
+}
+
+.star {
+   margin: 20px 0 10px 0;
+   cursor: pointer;
+   transition: color 200ms;
+ }

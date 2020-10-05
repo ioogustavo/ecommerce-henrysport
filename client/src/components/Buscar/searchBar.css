@@ -1,0 +1,78 @@
+input {
+ 
+  border-radius: 10px;
+  width: 500px;
+  height: auto;
+  background: white;
+  font-size: 10pt;
+  float: left;
+  padding-left: 45px;
+  outline: none;
+  border: none;
+  position: relative;
+}
+
+.button {
+  display: flex;
+  position: absolute;
+  border: none;
+  border-radius: 10px;
+  color: none;
+  z-index: 20;
+  background: white;
+ 
+  outline-width: inherit;
+  border: none;
+  background: none;
+}
+
+.material-icons {
+  display: flex;
+  outline: none;
+}
+
+.buscador {
+  display: inline-flex;
+  margin-top: 5px;
+}
+
+.buscador form {
+  border-color: 20px solid black;
+  margin: 5px;
+}
+
+
+.contenedorSB{
+  height: 50px;
+  background: #f57c00;
+  text-align: center;
+}
+
+
+.cimg-fluid {
+  display: flex;
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.card {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.bodycards {
+    min-height: 300px;
+    min-width: 300px;
+    margin-right: 5px;
+    flex-wrap: wrap;
+    display: flex;
+    position: absolute;
+}
+
+.btn-primary{
+  margin: auto;
+}
+

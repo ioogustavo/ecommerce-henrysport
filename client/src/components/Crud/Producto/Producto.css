@@ -1,0 +1,16 @@
+.mostrarProductoGuardado {
+  width: 250px !important;
+}
+
+.mostrarProductoGuardado li {
+  list-style: none;
+}
+
+.mostrarProductoGuardado li a {
+  text-decoration: none;
+  
+}
+
+.mostrarProductoGuardado li a img{
+  width: 100%;
+}

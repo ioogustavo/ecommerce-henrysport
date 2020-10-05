@@ -1,0 +1,48 @@
+
+.cont{
+   position: absolute;
+   height: 89.7%;
+   width: 100%;
+   background-image:url(https://cdn.pixabay.com/photo/2018/07/22/08/47/tennis-3554013_960_720.jpg);
+   background-repeat: no-repeat;
+   background-size: 1500px;
+
+}
+
+
+.log1{
+     padding: 20px;
+    font-size: 20px;
+    color: white;
+    width: 35%;
+    margin-top: 96px;
+    margin-left: 32%;
+    visibility: none;
+}
+
+.inputs{
+       height: 45px;
+}
+
+.boton1{
+   border: 15px solid black;
+   width: 200px;
+   margin-top: 15px;
+   margin-left: 124px;
+   cursor: pointer;
+   color: #fff;
+   background-color: #ff8d27;
+   border-color: #ff8d27;
+   display: inline-block;
+   font-weight: 400;
+   text-align: center;
+   white-space: nowrap;
+   vertical-align: middle;
+   user-select: none;
+   border: 1px solid transparent;
+   padding: .375rem .75rem;
+   font-size: 19px;
+   line-height: 1.5;
+   border-radius: .25rem;
+   transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}

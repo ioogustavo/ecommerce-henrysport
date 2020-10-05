@@ -1,0 +1,79 @@
+@media (min-width: 600px) and (max-width: 1024px){
+
+.img{
+    height: 500px;
+}
+
+ .carousel-control-next:hover{
+    background-color: rgba(128, 128, 128, 0.212);
+ }
+
+ .carousel-control-prev:hover{
+    background-color: rgba(128, 128, 128, 0.212);
+ }
+
+
+ .carousel-initialized{
+     height: 300px;
+ }
+ .carousel-track{
+     display: inline;
+ }
+
+ .carousel-dots{
+     margin: 0px;
+     padding: 5px;
+     background-color: black;
+     justify-content: center;
+ }
+ 
+
+.carousel-dot-1{
+    
+    background-color:  white;
+    margin: 3px;
+    
+    border-radius: 10px ;
+}
+
+.carousel-dot-2{
+    background-color: white;
+    margin: 3px;
+    
+    border-radius: 10px ;
+}
+
+.carousel-dot-3{
+    
+    background-color:  white;
+    margin: 3px;
+    
+    border-radius: 10px ;
+}
+
+.carousel-dot-4{
+    background-color: white;
+    margin: 3px;
+    
+    border-radius: 10px ;
+}
+
+.carousel-dot-5{
+    
+    background-color:  white;
+    margin: 3px;
+    
+    border-radius: 10px ;
+}
+
+.carousel-dot-6{
+    background-color: white;
+    margin: 3px;
+    
+    border-radius: 10px ;
+}
+
+.lkl{
+    background-color: #ffaf38e5;
+}
+}

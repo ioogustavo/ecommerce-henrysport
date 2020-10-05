@@ -1,0 +1,56 @@
+/* {
+    margin: 0px;
+    padding:0;
+    box-sizing: border-box;
+}  */
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+    padding: 0 20px;
+}
+
+.card-container{
+    display:flex;
+    widows: 600px;
+    height: auto;
+    background: #fff;
+    border-radius:5px;
+    box-shadow: 1px 1px 4px 2px rgba(0,0,0,-2);
+}
+
+.header{
+   border-right: 1px solid #ddd; 
+   border-top: 1px solid rgb(245, 239, 239); 
+}
+
+.descripcion{
+    margin-top: 50px;
+    background: #fbfbfb;
+    font-size: 25px;
+}
+
+.header, .description{
+    padding: 20px;
+    text-align: center;
+}
+
+.header, .imagen{
+    border-radius: 10px;
+    margin:20px 30px;
+}
+
+
+
+.imagen{
+    max-height: 300px;
+    max-width: 300px;
+    transition: 2s;
+
+}
+.imagen:hover{
+    transform: scale(1.5);
+}
