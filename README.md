@@ -26,7 +26,7 @@ Este es un proyecto que creamos a partir de la educación recibida en [Soy Henry
 - Database: 
     + PostgreSQL
 
-## COMENZANDO 🚀
+### COMENZANDO
 
 cuenta con dos carpetas: `api` y `client`. En estas carpetas estará el código del back-end y el front-end respectivamente. (En ambos instaralar NPM INSTALL)
 
@@ -42,18 +42,17 @@ PASSWORD= passwordemail
 Utilizando PGAdmin vas a crear tu nueva database "development".
 Tenés que reemplazar `usuariodepostgres` y `passwordDePostgres` con tus propias credenciales para conectarte a postgres. Este archivo va ser ignorado por github, ya que contiene información sensible (las credenciales).
 
-El contenido de `client` fue creado usando: Create React App.
 
-## EJECUTAR 🛠️ :
+### EJECUTAR :
  
  Para ejecutar el proyecto una vez hecho los pasos anteriores vamos a correr NPM START en Api y luego en Client.
 
 
-### Requerimientos
+#### Requerimientos
 
 La aplicación del e-commerce va a contar con los siguientes requerimientos:
 
-### Usuarios no Autenticados
+#### Usuarios no Autenticados
 
 Un Visitante anónimo debería poder navegar tu e-commerce, ver y buscar productos.
 
@@ -80,11 +79,11 @@ Un Visitante anónimo debería poder navegar tu e-commerce, ver y buscar product
     + ...poder crear una cuenta, asi puede hacer otras cosas como dejar un review.
     + ...poder logearme usando Google o Github, para no tener que acordarme de un password nuevo.
 
-### Usuarios Autenticados
+##### Usuarios Autenticados
 
 Los usuarios que hayan creado su cuenta, podrán hacer todo lo que puede hacer un usuario guest y además:
 
-###### Como un Usuario Autenticado yo quiero...
+##### Como un Usuario Autenticado yo quiero...
 
 - GESTION DE CUENTA:
     + ...poder desloguearme, asi nadie más pueda usar mi sesión.
@@ -96,11 +95,11 @@ Los usuarios que hayan creado su cuenta, podrán hacer todo lo que puede hacer u
 - REVIEWS:
     + ...poder dejar reviews a los productos, que incluyan texto y un sistema de cinco estrellas.
 
-### Admin
+#### Admin
 
 Los usuarios administradores pueden manejar el sitio, los productos que se listan y los items que están disponibles.
 
-###### Como un administrador yo quiero...
+##### Como un administrador yo quiero...
 
 - GESTION DE PRODUCTOS:
     + ...poder crear y editar productos, con nombre, descripción, precio y uno o más fotos, tal que los visitantes puedan ver la última información de lo que se vende.
@@ -120,7 +119,7 @@ Los usuarios administradores pueden manejar el sitio, los productos que se lista
     + ...forzar una password reset para un usuario.
 
 
-### Capturas del Ecommerce
+## Capturas del Ecommerce
  - Iniciar sesión: 
  ![alt text](./readmeImages/0.jpeg "Inicio de sesión")
 
@@ -136,14 +135,14 @@ Los usuarios administradores pueden manejar el sitio, los productos que se lista
 ### Nosotros
 Somos un grupo de 5 [Soy Henry](https://www.soyhenry.com/) estudiantes. Aquí están sus perfiles: 
 
-# Github
+## Github
 - [Rubén Gustavo Altamiranda](https://github.com/ioogustavo)
 - [Agustina Grimaldi](https://github.com/AgusGrimaldi)
 - [Cecilia Hansen](https://github.com/cecihansen)
 - [Ignacio Videla](https://github.com/ignaciovid)
 - [Matias Ruiz](https://github.com/matiasruizmdz)
 
-# Linkedin
+## Linkedin
 - [Rubén Gustavo Altamiranda](https://www.linkedin.com/in/gustavoaltamiranda/)
 - [Agustina Grimaldi](https://www.linkedin.com/in/agustina-belen-grimaldi-b214301b3/)
 - [Cecilia Hansen](https://www.linkedin.com/in/hansen-cecilia/)
