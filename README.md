@@ -136,8 +136,16 @@ Los usuarios administradores pueden manejar el sitio, los productos que se lista
 ### Nosotros
 Somos un grupo de 5 [Soy Henry](https://www.soyhenry.com/) estudiantes. Aquí están sus perfiles: 
 
-- [Rubén Gustavo Altamiranda GitHub: ](https://github.com/ioogustavo)
+# Github
+- [Rubén Gustavo Altamiranda](https://github.com/ioogustavo)
 - [Agustina Grimaldi](https://github.com/AgusGrimaldi)
 - [Cecilia Hansen](https://github.com/cecihansen)
 - [Ignacio Videla](https://github.com/ignaciovid)
 - [Matias Ruiz](https://github.com/matiasruizmdz)
+
+# Linkedin
+- [Rubén Gustavo Altamiranda](https://www.linkedin.com/in/gustavoaltamiranda/)
+- [Agustina Grimaldi](https://www.linkedin.com/in/agustina-belen-grimaldi-b214301b3/)
+- [Cecilia Hansen](https://www.linkedin.com/in/hansen-cecilia/)
+- [Ignacio Videla](https://www.linkedin.com/in/ignacio-videla-7b00711b3/)
+- [Matias Ruiz](https://www.linkedin.com/in/matias-ruiz-mdz/)
