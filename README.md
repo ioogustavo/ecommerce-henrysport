@@ -2,6 +2,53 @@
     <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
 </p>
 
+# Henry
+
+## HenrySport
+Este es un proyecto que creamos a partir de la educación recibida en [Soy Henry](https://www.soyhenry.com/), que consiste en crear una aplicación full-stack React desde cero.
+
+### Nuestras tecnologías
+
+- Back End:
+    + Node.js
+    + Express
+    + Passport
+    + Sequelize
+    + Nodemailer
+
+- Front End:
+    + HTML - CSS - Javascript
+    + React
+    + React-Bootstrap
+    + Redux
+    + Firebase
+
+- Database: 
+    + PostgreSQL
+
+## COMENZANDO 🚀
+
+cuenta con dos carpetas: `api` y `client`. En estas carpetas estará el código del back-end y el front-end respectivamente. (En ambos instaralar NPM INSTALL)
+
+Para cargar en tu base de datos En `api` vas a tener que crear un archivo llamado: `.env` que tenga la siguiente forma:
+
+```
+DB_USER=usuariodepostgres
+DB_PASSWORD=passwordDePostgres
+DB_HOST=localhost
+EMAIL= emailtienda 
+PASSWORD= passwordemail
+```
+Utilizando PGAdmin vas a crear tu nueva database "development".
+Tenés que reemplazar `usuariodepostgres` y `passwordDePostgres` con tus propias credenciales para conectarte a postgres. Este archivo va ser ignorado por github, ya que contiene información sensible (las credenciales).
+
+El contenido de `client` fue creado usando: Create React App.
+
+## EJECUTAR 🛠️ :
+ 
+ Para ejecutar el proyecto una vez hecho los pasos anteriores vamos a correr NPM START en Api y luego en Client.
+
+
 ### Requerimientos
 
 La aplicación del e-commerce va a contar con los siguientes requerimientos:
@@ -72,36 +119,25 @@ Los usuarios administradores pueden manejar el sitio, los productos que se lista
     + ...borrar a un usuario, asi no puedan logearse más.
     + ...forzar una password reset para un usuario.
 
-### Validación de Datos
-
-Cuando crees los modelos, debes considerar los tipos de datos que vas a recibir, qué cosas van a ser requeridas y cómo vas a devolver los errores a los usuarios.
-Algunas constrains qué deberás implementar:
-
-- Productos:
-    + Deben tener `titulo`, `descripcion`, `precio`, `cantidad`
-    + Deben pertenecer a por lo menos una categoría.
-    + Deben tener una foto, si no tienen una foto, deben tener un placeholder de foto por defecto.
-- Usuarios:
-    + Deben tener una dirección de mail válida.
-    + Su email debe ser único.
-- Ordenes:
-    + Una orden debe pertenecer a un usuario o a un guest (autenticado vs no autenticado).
-    + Las ordenes deben tener línea de orden que contiene el `precio`, `productId`, y `cantidad`.
-    + Si un usuario completa una orden, esa orden debe mantener el precio del item al momento de la compra, sin importar que el precio del producto cambie después.
-- Reviews:
-    + Todas las reviews deben pertenecer a un producto.
-    + Todas las reviews deben pertenecer a un usuario.
-    + Todas las reviews deben tener por lo menos x caractéres.
 
 ### Capturas del Ecommerce
  - Iniciar sesión: 
- <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHKzgO_Ai0siw/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=lEIrg2TzsstdGo_0yK799aD32opcublyqqO1HS7SPuI'></img>
+ ![alt text](./readmeImages/0.jpeg "Inicio de sesión")
 
- -Registrarse:
- <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHhOWqINNJMuw/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=2FIDXMqkd25riZ59Zr8dPGF2eO-asLVbkL5qNoLEp_0'></img>
+ - Registrarse:
+![alt text](./readmeImages/3.jpeg "Registrarse")
 
--Productos:
-  <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHwbSNXqollKQ/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=mqmkUtJplutW-729ign1vG5f2EOJS6704P7W2JpJUCI'></img>
+- Todos los productos:
+![alt text](./readmeImages/2.jpeg "Productos")
 
- -Carrito:
-   <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHI2sDoqtC6vQ/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=ovYXmYEnrj8-KmxC9PuDwJ2McsQN589jxXp1OiJ7DTA'></img>
+ - Carrito:
+![alt text](./readmeImages/1.jpeg "Carrito")
+
+### Nosotros
+Somos un grupo de 5 [Soy Henry](https://www.soyhenry.com/) estudiantes. Aquí están sus perfiles: 
+
+- [Rubén Gustavo Altamiranda GitHub: ](https://github.com/ioogustavo)
+- [Agustina Grimaldi](https://github.com/AgusGrimaldi)
+- [Cecilia Hansen](https://github.com/cecihansen)
+- [Ignacio Videla](https://github.com/ignaciovid)
+- [Matias Ruiz](https://github.com/matiasruizmdz)
