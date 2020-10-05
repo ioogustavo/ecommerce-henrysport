@@ -95,13 +95,13 @@ Algunas constrains qué deberás implementar:
 
 ### Capturas del Ecommerce
  - Iniciar sesión: 
- <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHKzgO_Ai0siw/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=lEIrg2TzsstdGo_0yK799aD32opcublyqqO1HS7SPuI' </img>
+ <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHKzgO_Ai0siw/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=lEIrg2TzsstdGo_0yK799aD32opcublyqqO1HS7SPuI'></img>
 
  -Registrarse:
- <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHhOWqINNJMuw/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=2FIDXMqkd25riZ59Zr8dPGF2eO-asLVbkL5qNoLEp_0' </img>
+ <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHhOWqINNJMuw/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=2FIDXMqkd25riZ59Zr8dPGF2eO-asLVbkL5qNoLEp_0'></img>
 
 -Productos:
-  <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHwbSNXqollKQ/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=mqmkUtJplutW-729ign1vG5f2EOJS6704P7W2JpJUCI' </img>
+  <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHwbSNXqollKQ/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=mqmkUtJplutW-729ign1vG5f2EOJS6704P7W2JpJUCI'></img>
 
  -Carrito:
-   <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHI2sDoqtC6vQ/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=ovYXmYEnrj8-KmxC9PuDwJ2McsQN589jxXp1OiJ7DTA' </img>
+   <img src='https://media-exp1.licdn.com/dms/image/C4D22AQHI2sDoqtC6vQ/feedshare-shrink_1280-alternative/0?e=1604534400&v=beta&t=ovYXmYEnrj8-KmxC9PuDwJ2McsQN589jxXp1OiJ7DTA'></img>
