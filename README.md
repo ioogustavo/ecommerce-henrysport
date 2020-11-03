@@ -81,6 +81,11 @@ Somos un grupo de 5 [Soy Henry](https://www.soyhenry.com/) estudiantes. Aquí es
 
 
 
+
+
+
+<details><summary>Mas detalles</summary>
+<p>
 #### Requerimientos
 
 La aplicación del e-commerce va a contar con los siguientes requerimientos:
@@ -151,14 +156,5 @@ Los usuarios administradores pueden manejar el sitio, los productos que se lista
     + ...borrar a un usuario, asi no puedan logearse más.
     + ...forzar una password reset para un usuario.
 
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-
+</p>
+</details>
