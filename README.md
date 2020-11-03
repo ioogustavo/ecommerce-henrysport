@@ -86,6 +86,8 @@ Somos un grupo de 5 [Soy Henry](https://www.soyhenry.com/) estudiantes. Aquí es
 
 <details><summary>Mas detalles</summary>
 <p>
+
+
 #### Requerimientos
 
 La aplicación del e-commerce va a contar con los siguientes requerimientos:
